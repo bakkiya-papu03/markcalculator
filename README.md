@@ -1,1 +1,1 @@
-# markcalculator
+# simplemarkcalculator
